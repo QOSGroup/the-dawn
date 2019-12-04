@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2019-12-03T07:59:39.684226578Z",
+  "genesis_time": "2019-12-04T09:23:48.783971674Z",
   "chain_id": "sagittarius-1000",
   "consensus_params": {
     "block": {
@@ -18,16 +18,6 @@
   },
   "app_hash": "",
   "app_state": {
-    "approve": {
-      "approves": null
-    },
-    "guardian": {
-      "guardians": null
-    },
-    "qsc": {
-      "ca_root_pub_key": null,
-      "qscs": null
-    },
     "distribution": {
       "community_fee_pool": "0",
       "last_block_proposer": "",
@@ -78,33 +68,257 @@
       "proposals": null
     },
     "bank": {
-      "accounts": [],
-      "lock_info": null
+      "accounts": [
+        {
+          "account_address": "qosacc13u5rpehvl4kwvp8c83n3s6qh92du57qchvu622",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "743676030000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1pjdlx7xn8jeggkl2vtuqh6xvxpe4nmm637c702",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "80",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc19lcp7mmftcf25nuutjj4thjvla6vq544sjj5kz",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "841111310000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1m0dlkhccr929r262nk5u00qxszwjc79qtwklk7",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "2494100000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc122nqa6ngq0n97cvheath8u8mve9ddcfqyz7xd3",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "13212330000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1w73puact67j8ha49kaffrc3p48zcvmg6yc7zmm",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "100436890000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1758amwkzvssk30ml2hhh9kegq54yaqdpe0evvd",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1648149966",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1v9nrz5fqyxdh829mh07z39g2fjgklzgd3jzn9v",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "960016400",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1hq3rn84t6c5mszef9ef2hz2z9ntzt2tdceafsk",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1413999990000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1u202ded0rql0um03y4huya8zz8uc6u98k92yy6",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1342437940000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1p202936wwwh6jkrdwl2auf904tey6s3wlustah",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "89346111111",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1dnfqsflrl0m8csygtfg9nffh3yffg5z6mq2d0r",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1666666666664",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1h8ruxyaznts7fwdstzpn06ppkk5e0fn9wwmewh",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "76700191118",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1mum9u3ruhcapw0xjtjphprnr6malkuk5e9p9mz",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1704977170000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1qqm5z37hvuj6xrnfzn7nlnlzl8llj0yyn5ty5p",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "550005000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc152yfj7yuatad7ygn50cd0xlzvgste2vcutqm4k",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "400000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1lkc3qrktxxmhslpyatcznwuq8yaqrg2agngm5z",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "440004000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1lfsuxmkgxv022detnqavr9g3rjh9sdj86uaj3y",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "597767430000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1geugwgmpz3haupcct3uknfc4v0tky9cjcvp5ns",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "357243090000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc14azkvy0myp32ppm4ryety6u55xcfc3kf58f0jf",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "359999990000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1sjrneqqldyx5c9pllv5mg3taes9ntylvhxef5s",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "200000000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc12kz4catqgk5p2x86qq3rhtftk6q3vk624enn85",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "11100022221",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1sgdnvq86qujfw86c2fjer748lre2zg66qwsdfm",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "96000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1nucljtae32xz3xrfz2uq3ajgku05t0q32cyl7q",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "660006000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1raqeulxtdp29r3k9xvklj49stqwyaqlvscyeey",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "220002000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1kyrt7exhc5v3kg32c4mw7u46mcc4r04rz7g2vd",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1001001009999",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1w65jwxs492gffjcwfvx59f5t0wjnnvxawyqyds",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "1000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1vrmflxagsvntyqrh6wsgahmul5x6mqp6njxux4",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "23286450000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1jg7fzpwt3qqkfc9eg28wf4xl33e88ut84f6rcx",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "100579110000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1lp77cqantanywznqzlzcd6eed5xavdry4vm7v5",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "880007000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1m5f6se6u2myrga7l3jhacy9hcnftszvgn0wqus",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "330003000000",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc1nzv9awha9606jp5rpqe2kujckddpyaugv0ze4k",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "25271327506441",
+          "qscs": []
+        },
+        {
+          "account_address": "qosacc18c66nqm8akq5qupmq3kx34kcxp2na4qem3cvne",
+          "public_key": "",
+          "nonce": 0,
+          "qos": "8333333333336",
+          "qscs": null
+        }
+      ],
+      "lock_info": {
+        "locked_account": "qosacc18c66nqm8akq5qupmq3kx34kcxp2na4qem3cvne",
+        "receiver": "qosacc1dnfqsflrl0m8csygtfg9nffh3yffg5z6mq2d0r",
+        "total_amount": "10000000000000",
+        "released_amount": "1666666666664",
+        "release_time": "2019-12-05T00:00:00Z",
+        "release_interval": "1",
+        "release_times": "20"
+      }
     },
     "qcp": {
       "ca_root_pub_key": null,
       "qcps": null
     },
-    "stake": {
-      "gen_txs": null,
-      "params": {
-        "max_validator_cnt": "21",
-        "voting_status_len": "10000",
-        "voting_status_least": "7000",
-        "survival_secs": "28800",
-        "unbond_frozen_height": "259200",
-        "max_evidence_age": "1814400000000000",
-        "slash_fraction_double_sign": "0.200000000000000000",
-        "slash_fraction_downtime": "0.000100000000000000"
-      },
-      "validators": null,
-      "val_votes_info": null,
-      "val_votes_in_window": null,
-      "delegators_info": null,
-      "delegator_unbond_info": null,
-      "redelegations_info": null,
-      "current_validators": null
+    "approve": {
+      "approves": null
     },
+    "params": null,
     "mint": {
       "inflation_phrases": [
         {
@@ -143,10 +357,36 @@
           "applied_amount": "0"
         }
       ],
-      "first_block_time": "1575359979",
-      "applied_qos_amount": "0",
-      "total_qos_amount": "100000000000000"
+      "first_block_time": "1575451428",
+      "applied_qos_amount": "47333333333336",
+      "total_qos_amount": "98333333333336"
     },
-    "params": null
+    "guardian": {
+      "guardians": null
+    },
+    "qsc": {
+      "ca_root_pub_key": null,
+      "qscs": null
+    },
+    "stake": {
+      "gen_txs": null,
+      "params": {
+        "max_validator_cnt": "21",
+        "voting_status_len": "10000",
+        "voting_status_least": "7000",
+        "survival_secs": "28800",
+        "unbond_frozen_height": "259200",
+        "max_evidence_age": "1814400000000000",
+        "slash_fraction_double_sign": "0.200000000000000000",
+        "slash_fraction_downtime": "0.000100000000000000"
+      },
+      "validators": null,
+      "val_votes_info": null,
+      "val_votes_in_window": null,
+      "delegators_info": null,
+      "delegator_unbond_info": null,
+      "redelegations_info": null,
+      "current_validators": null
+    }
   }
 }
