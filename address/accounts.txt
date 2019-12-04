@@ -27,9 +27,9 @@ qosacc1w73puact67j8ha49kaffrc3p48zcvmg6yc7zmm 100000000000
 # ZYF:
 qosacc1758amwkzvssk30ml2hhh9kegq54yaqdpe0evvd 989899966
 qosacc1m0dlkhccr929r262nk5u00qxszwjc79qtwklk7 1010100000
-qosacc122nqa6ngq0n97cvheath8u8mve9ddcfqyz7xd3 1
+qosacc122nqa6ngq0n97cvheath8u8mve9ddcfqyz7xd3 0
 # TEAM:
-qosacc1dnfqsflrl0m8csygtfg9nffh3yffg5z6mq2d0r 1666666666664
+# qosacc1dnfqsflrl0m8csygtfg9nffh3yffg5z6mq2d0r 1666666666664
 # ATM:
-qosacc1nzv9awha9606jp5rpqe2kujckddpyaugv0ze4k 26739010363113
+# qosacc1nzv9awha9606jp5rpqe2kujckddpyaugv0ze4k 26739010363113
 
