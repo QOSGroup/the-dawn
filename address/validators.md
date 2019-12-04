@@ -1,7 +1,0 @@
-A qosacc1mum9u3ruhcapw0xjtjphprnr6malkuk5e9p9mz 1704977170000 28.33%
-B qosacc1hq3rn84t6c5mszef9ef2hz2z9ntzt2tdceafsk 1413999990000 23.49%
-C qosacc19lcp7mmftcf25nuutjj4thjvla6vq544sjj5kz 841111310000 13.97%
-D qosacc13u5rpehvl4kwvp8c83n3s6qh92du57qchvu622 743676030000 12.35%
-E qosacc1lfsuxmkgxv022detnqavr9g3rjh9sdj86uaj3y 597767430000 12.36%
-F qosacc14azkvy0myp32ppm4ryety6u55xcfc3kf58f0jf 359999990000 5.98%
-G qosacc1geugwgmpz3haupcct3uknfc4v0tky9cjcvp5ns 357243090000 5.93%
