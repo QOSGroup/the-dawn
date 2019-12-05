@@ -1,9 +1,7 @@
-QOSBBB qosacc1mum9u3ruhcapw0xjtjphprnr6malkuk5e9p9mz http://validator-static.qoschain.info/public/logos/qosbbb.png http://docs.qoschain.info/qosbbb.html
-QOSV21 qosacc1hq3rn84t6c5mszef9ef2hz2z9ntzt2tdceafsk http://validator-static.qoschain.info/public/logos/qosv21.png http://docs.qoschain.info/qosv21.html
-德道资本 qosacc19lcp7mmftcf25nuutjj4thjvla6vq544sjj5kz http://validator-static.qoschain.info/public/logos/ddzb.png http://docs.qoschain.info/ddzb.html
-颐和资本 qosacc13u5rpehvl4kwvp8c83n3s6qh92du57qchvu622 http://validator-static.qoschain.info/public/logos/yhzb.png http://docs.qoschain.info/yhzb.html
-仁和资本 qosacc1lfsuxmkgxv022detnqavr9g3rjh9sdj86uaj3y http://validator-static.qoschain.info/public/logos/rhzb.png http://docs.qoschain.info/rhzb.html
-翼圣资本 qosacc14azkvy0myp32ppm4ryety6u55xcfc3kf58f0jf http://validator-static.qoschain.info/public/logos/yszb.png http://docs.qoschain.info/yszb.html
-澄梓创投 qosacc1geugwgmpz3haupcct3uknfc4v0tky9cjcvp5ns http://validator-static.qoschain.info/public/logos/czzb.png http://docs.qoschain.info/czzb.html
-
-
+qosbbb qosacc1mum9u3ruhcapw0xjtjphprnr6malkuk5e9p9mz http://validator-static.qoschain.info/public/logos/qosbbb.png http://docs.qoschain.info/qosbbb.html
+qosv21 qosacc1hq3rn84t6c5mszef9ef2hz2z9ntzt2tdceafsk http://validator-static.qoschain.info/public/logos/qosv21.png http://docs.qoschain.info/qosv21.html
+ddzb qosacc19lcp7mmftcf25nuutjj4thjvla6vq544sjj5kz http://validator-static.qoschain.info/public/logos/ddzb.png http://docs.qoschain.info/ddzb.html
+yhzb qosacc13u5rpehvl4kwvp8c83n3s6qh92du57qchvu622 http://validator-static.qoschain.info/public/logos/yhzb.png http://docs.qoschain.info/yhzb.html
+rhzb qosacc1lfsuxmkgxv022detnqavr9g3rjh9sdj86uaj3y http://validator-static.qoschain.info/public/logos/rhzb.png http://docs.qoschain.info/rhzb.html
+yszb qosacc14azkvy0myp32ppm4ryety6u55xcfc3kf58f0jf http://validator-static.qoschain.info/public/logos/yszb.png http://docs.qoschain.info/yszb.html
+czct qosacc1geugwgmpz3haupcct3uknfc4v0tky9cjcvp5ns http://validator-static.qoschain.info/public/logos/czct.png http://docs.qoschain.info/czct.html
