@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2019-12-04T11:17:51.622931352Z",
+  "genesis_time": "2019-12-05T02:32:36.37731245Z",
   "chain_id": "sagittarius-1000",
   "consensus_params": {
     "block": {
@@ -18,6 +18,22 @@
   },
   "app_hash": "",
   "app_state": {
+    "distribution": {
+      "community_fee_pool": "0",
+      "last_block_proposer": "",
+      "pre_distribute_amount": "0",
+      "validators_history_period": null,
+      "validators_current_period": null,
+      "delegator_earning_info": null,
+      "delegator_income_height": null,
+      "validator_eco_fee_pools": null,
+      "params": {
+        "proposer_reward_rate": "0.010000000000000000",
+        "community_reward_rate": "0.020000000000000000",
+        "delegator_income_period_height": "720",
+        "gas_per_unit_cost": "100"
+      }
+    },
     "gov": {
       "starting_proposal_id": "1",
       "params": {
@@ -51,21 +67,13 @@
       },
       "proposals": null
     },
-    "distribution": {
-      "community_fee_pool": "0",
-      "last_block_proposer": "",
-      "pre_distribute_amount": "0",
-      "validators_history_period": null,
-      "validators_current_period": null,
-      "delegator_earning_info": null,
-      "delegator_income_height": null,
-      "validator_eco_fee_pools": null,
-      "params": {
-        "proposer_reward_rate": "0.010000000000000000",
-        "community_reward_rate": "0.020000000000000000",
-        "delegator_income_period_height": "720",
-        "gas_per_unit_cost": "100"
-      }
+    "params": null,
+    "qcp": {
+      "ca_root_pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "TWJ2zVrnWIJTUCZ61lkk2s8pOFQd3KDtF1FAWC+lShs="
+      },
+      "qcps": null
     },
     "bank": {
       "accounts": [
@@ -294,7 +302,7 @@
           "qscs": []
         },
         {
-          "account_address": "qosacc182l8m5tlwmgkpcht8ltuh067hvycyyrjhzx84l",
+          "account_address": "qosacc12433lj5m0jqskhce6wr57nkwe3w3scm6n6k7vv",
           "public_key": "",
           "nonce": 0,
           "qos": "8333333333336",
@@ -302,65 +310,15 @@
         }
       ],
       "lock_info": {
-        "locked_account": "qosacc182l8m5tlwmgkpcht8ltuh067hvycyyrjhzx84l",
+        "locked_account": "qosacc12433lj5m0jqskhce6wr57nkwe3w3scm6n6k7vv",
         "receiver": "qosacc1dnfqsflrl0m8csygtfg9nffh3yffg5z6mq2d0r",
         "total_amount": "10000000000000",
         "released_amount": "1666666666664",
-        "release_time": "2019-12-05T00:00:00Z",
+        "release_time": "2019-12-06T00:00:00Z",
         "release_interval": "1",
         "release_times": "20"
       }
     },
-    "mint": {
-      "inflation_phrases": [
-        {
-          "end_time": "2023-10-20T00:00:00Z",
-          "total_amount": "25500000000000",
-          "applied_amount": "0"
-        },
-        {
-          "end_time": "2027-10-20T00:00:00Z",
-          "total_amount": "12750000000000",
-          "applied_amount": "0"
-        },
-        {
-          "end_time": "2031-10-20T00:00:00Z",
-          "total_amount": "6375000000000",
-          "applied_amount": "0"
-        },
-        {
-          "end_time": "2035-10-20T00:00:00Z",
-          "total_amount": "3187500000000",
-          "applied_amount": "0"
-        },
-        {
-          "end_time": "2039-10-20T00:00:00Z",
-          "total_amount": "1593750000000",
-          "applied_amount": "0"
-        },
-        {
-          "end_time": "2043-10-20T00:00:00Z",
-          "total_amount": "796875000000",
-          "applied_amount": "0"
-        },
-        {
-          "end_time": "2047-10-20T00:00:00Z",
-          "total_amount": "796875000000",
-          "applied_amount": "0"
-        }
-      ],
-      "first_block_time": "1575458271",
-      "applied_qos_amount": "47333333333336",
-      "total_qos_amount": "98333333333336"
-    },
-    "qcp": {
-      "ca_root_pub_key": {
-        "type": "tendermint/PubKeyEd25519",
-        "value": "TWJ2zVrnWIJTUCZ61lkk2s8pOFQd3KDtF1FAWC+lShs="
-      },
-      "qcps": null
-    },
-    "params": null,
     "guardian": {
       "guardians": [
         {
@@ -370,6 +328,13 @@
           "creator": ""
         }
       ]
+    },
+    "qsc": {
+      "ca_root_pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "xEeyCZ8p6s8j8mjNP9TvNr8f3jHeKxPnfcIVeYyHZT4="
+      },
+      "qscs": null
     },
     "stake": {
       "gen_txs": [
@@ -1093,15 +1058,50 @@
       "redelegations_info": null,
       "current_validators": null
     },
+    "mint": {
+      "inflation_phrases": [
+        {
+          "end_time": "2023-10-20T00:00:00Z",
+          "total_amount": "25500000000000",
+          "applied_amount": "0"
+        },
+        {
+          "end_time": "2027-10-20T00:00:00Z",
+          "total_amount": "12750000000000",
+          "applied_amount": "0"
+        },
+        {
+          "end_time": "2031-10-20T00:00:00Z",
+          "total_amount": "6375000000000",
+          "applied_amount": "0"
+        },
+        {
+          "end_time": "2035-10-20T00:00:00Z",
+          "total_amount": "3187500000000",
+          "applied_amount": "0"
+        },
+        {
+          "end_time": "2039-10-20T00:00:00Z",
+          "total_amount": "1593750000000",
+          "applied_amount": "0"
+        },
+        {
+          "end_time": "2043-10-20T00:00:00Z",
+          "total_amount": "796875000000",
+          "applied_amount": "0"
+        },
+        {
+          "end_time": "2047-10-20T00:00:00Z",
+          "total_amount": "796875000000",
+          "applied_amount": "0"
+        }
+      ],
+      "first_block_time": "1575513156",
+      "applied_qos_amount": "47333333333336",
+      "total_qos_amount": "98333333333336"
+    },
     "approve": {
       "approves": null
-    },
-    "qsc": {
-      "ca_root_pub_key": {
-        "type": "tendermint/PubKeyEd25519",
-        "value": "xEeyCZ8p6s8j8mjNP9TvNr8f3jHeKxPnfcIVeYyHZT4="
-      },
-      "qscs": null
     }
   }
 }
