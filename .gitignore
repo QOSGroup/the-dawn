@@ -2,4 +2,3 @@
 gen.sh
 go.mod
 main.go
-genTxCommand
